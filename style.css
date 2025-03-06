@@ -1,0 +1,27 @@
+body{
+    background: whitesmoke;
+}
+.intro-image {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.tab {
+    background-color: #b2fb7153;
+    
+}
+.skillhead{
+    color:black;
+}
+
+.table{
+    border:1px solid black;
+}
+.form-control{
+    border: 1px solid black;
+}
+.form-control:hover{
+    border-color: black;
+}
